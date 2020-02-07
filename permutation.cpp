@@ -23,7 +23,7 @@ void makestring(int num)
     permu[num] = '\0';
     for(i=0; i<num; i++)
     {
-        permui] = alpha++;
+        permu[i] = alpha++;
     }
     permutation(permu,0,num);
 }
